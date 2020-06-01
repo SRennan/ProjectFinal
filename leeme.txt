@@ -1,0 +1,4 @@
+crear carpetas: 
+	- data/validacion/ donde van las carpetas de las danzas 
+	- data/entrenamient/ donde van las carpetas de las danzas 
+	- modelo/ donde se guardan los modelos
